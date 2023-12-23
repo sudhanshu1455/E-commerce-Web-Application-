@@ -1,0 +1,28 @@
+.custom-backgroundColor{
+    background: #4a26fd!important; 
+}
+.admin.card{
+    border: 1px solid #4a26fd; 
+}
+.admin .card:hover{
+    background: #e2e2e2; 
+    cursor: pointer; 
+    
+}
+
+.list-group-item.active{
+        background: #4a26fd!important; 
+        border-color: #ffff!important;
+}
+
+.sizingproductimage{
+    max-height:200px; 
+    max-width: 100%; 
+    width: auto; 
+}
+.style-card-product:hover{
+     background: #e2e2e2; 
+    cursor: pointer; 
+    
+}
+/*toasts*/
